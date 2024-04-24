@@ -1,0 +1,13 @@
+D:\intellij\workspace\custom-components\smb\src\main\java\org\assimbly\smb\SmbConsumer.java
+D:\intellij\workspace\custom-components\smb\src\main\java\org\assimbly\smb\SmbConfiguration.java
+D:\intellij\workspace\custom-components\smb\src\main\java\org\assimbly\smb\SmbOperations.java
+D:\intellij\workspace\custom-components\smb\src\main\java\org\assimbly\smb\SmbProducer.java
+D:\intellij\workspace\custom-components\smb\src\main\java\org\assimbly\smb\SmbApiFactory.java
+D:\intellij\workspace\custom-components\smb\src\main\java\org\assimbly\smb\DefaultSmbClient.java
+D:\intellij\workspace\custom-components\smb\src\main\java\org\assimbly\smb\JcifsSmbApiFactory.java
+D:\intellij\workspace\custom-components\smb\src\main\java\org\assimbly\smb\strategy\SmbProcessStrategyFactory.java
+D:\intellij\workspace\custom-components\smb\src\main\java\org\assimbly\smb\SmbGenericFile.java
+D:\intellij\workspace\custom-components\smb\src\main\java\org\assimbly\smb\SmbComponent.java
+D:\intellij\workspace\custom-components\smb\src\main\java\org\assimbly\smb\SmbEndpoint.java
+D:\intellij\workspace\custom-components\smb\src\main\java\org\assimbly\smb\strategy\SmbChangedExclusiveReadLockStrategy.java
+D:\intellij\workspace\custom-components\smb\src\main\java\org\assimbly\smb\SmbClient.java

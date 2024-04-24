@@ -1,0 +1,6 @@
+org\assimbly\fmuta\FmutaConfiguration.class
+org\assimbly\fmuta\FmutaComponent.class
+org\assimbly\fmuta\FmutaEndpoint.class
+org\assimbly\fmuta\BigDecimalConverter.class
+org\assimbly\fmuta\FmutaFeedEnricher.class
+org\assimbly\fmuta\FmutaProcessor.class

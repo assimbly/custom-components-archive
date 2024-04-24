@@ -1,0 +1,3 @@
+org\assimbly\hl7\Er7Encoder.class
+org\assimbly\hl7\XmlEncoder.class
+org\assimbly\hl7\XmlMarshaller.class

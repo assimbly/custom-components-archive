@@ -1,0 +1,13 @@
+org\assimbly\smb\SmbApiFactory.class
+org\assimbly\smb\JcifsSmbApiFactory.class
+org\assimbly\smb\DefaultSmbClient.class
+org\assimbly\smb\strategy\SmbChangedExclusiveReadLockStrategy.class
+org\assimbly\smb\SmbClient.class
+org\assimbly\smb\SmbConfiguration.class
+org\assimbly\smb\SmbEndpoint.class
+org\assimbly\smb\SmbOperations.class
+org\assimbly\smb\SmbConsumer.class
+org\assimbly\smb\SmbGenericFile.class
+org\assimbly\smb\SmbProducer.class
+org\assimbly\smb\strategy\SmbProcessStrategyFactory.class
+org\assimbly\smb\SmbComponent.class

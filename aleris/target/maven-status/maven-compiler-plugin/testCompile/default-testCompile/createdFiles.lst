@@ -1,0 +1,11 @@
+org\assimbly\aleris\AlerisComponentIntegrationTest$1.class
+org\assimbly\aleris\CertificatesCreator.class
+org\assimbly\aleris\converter\AlerisUnitMatcherTest.class
+org\assimbly\aleris\AlerisComponentIntegrationTest.class
+org\assimbly\aleris\CertificatesMarshallerTest.class
+org\assimbly\aleris\converter\AlerisChemicalAnalysisSplitterTest.class
+org\assimbly\aleris\converter\AlerisHeaderSplitterTest.class
+org\assimbly\aleris\converter\AlerisMechanicalPropertiesSplitterTest.class
+org\assimbly\aleris\converter\AlerisCertificateConverterTest.class
+org\assimbly\aleris\converter\AlerisCertificateSplitterTest.class
+org\assimbly\aleris\converter\AlerisCrateContentSplitterTest.class
